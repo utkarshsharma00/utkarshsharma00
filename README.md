@@ -15,6 +15,7 @@
 I build AI systems that finance professionals actually trust and use.
 
 - 🏢 **Trading Operations Analyst** at **Bruce Markets (PEAK6)** — Chicago, IL
+- 🏦 Previously **Rotational Analyst, Cleared Derivatives** at **ION Group** (2+ years)
 - 🎓 **MS Computer Science** from University of Illinois Urbana-Champaign
 - 📜 **Series 7 & SIE Licensed** (FINRA)
 - 🔬 Researcher in geometric deep learning for molecular science
@@ -30,6 +31,14 @@ I build AI systems that finance professionals actually trust and use.
 | **Multi-Modal RAG System** | LLM-powered document parser using vision pipelines for regulatory filings, deployed via Slack with semantic caching |
 | **Real-Time Market Data Platform** | Visualization of 11K+ symbols at 500K+ messages/second with sub-10ms latency |
 | **Order Management System** | High-concurrency FIX 4.2 OMS with direct exchange connectivity for risk validation |
+
+#### @ ION Group
+| Project | Description |
+|---------|-------------|
+| **PATSAnalytics** | Scalable data extraction pipeline + interactive PowerBI dashboards for real-time order metrics and multi-exchange activity insights. Enabled 30% faster decision-making for senior management. |
+| **Alert Monitoring System** | Re-engineered post-cyber-attack by analyzing logs from 16 components. Built triage function reducing false alerts by 5% and improving incident response by 20%. |
+| **UAT Trading Environments** | Built testing environments for SGX, DGCX, and SFE exchanges, simulating 100K+ trades. Drove 15% revenue increase through improved trading capabilities. |
+| **Trading System Support** | Resolved 600+ critical trading system and market data feed issues across high-frequency environments. |
 
 #### @ Molecule Maker Lab Institute
 | Project | Description |
@@ -57,7 +66,7 @@ FIX Protocol • WebSocket • Kafka • Low-Latency Systems • Market Data
 
 **Frontend**
 ```
-React • TypeScript
+React • TypeScript 
 ```
 
 ---
@@ -82,7 +91,6 @@ React • TypeScript
 ### 🤝 Let's Connect
 
 Looking for **AI Engineer**, **ML Engineer**, or **Quant Tech** roles at the intersection of machine learning and finance - at high-growth AI startups, trading firms, or drug discovery companies.
-
 
 <p align="center">
   <a href="mailto:dailymail2801@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-red?style=for-the-badge"></a>
