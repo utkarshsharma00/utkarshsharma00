@@ -29,7 +29,6 @@ I build AI systems that finance professionals actually trust and use.
 |---------|-------------|
 | **Natural Language Analytics** | Full-stack platform (React + FastAPI) routing queries between SQL generation and statistical anomaly detection |
 | **Multi-Modal RAG System** | LLM-powered document parser using vision pipelines for regulatory filings, deployed via Slack with semantic caching |
-| **Real-Time Market Data Platform** | Visualization of 11K+ symbols at 500K+ messages/second with sub-10ms latency |
 | **Order Management System** | High-concurrency FIX 4.2 OMS with direct exchange connectivity for risk validation |
 
 #### @ ION Group
